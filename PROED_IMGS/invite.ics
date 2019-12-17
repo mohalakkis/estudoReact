@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20191127T120000Z
+DTEND:20191127T130000Z
+DTSTAMP:20191126T033755Z
+ORGANIZER;CN=aws@webdanfe.com.br:mailto:aws@webdanfe.com.br
+UID:mfnp3e9u7b8iftnuuua9g13adg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=aws@webdanfe.com.br;X-NUM-GUESTS=0:mailto:aws@webdanfe.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=mohamed.2000lakkis@gmail.com;X-NUM-GUESTS=0:mailto:mohamed.2000lakkis@g
+ mail.com
+X-MICROSOFT-CDO-OWNERAPPTID:445674148
+CREATED:20191126T033752Z
+DESCRIPTION:Validação de Certificado Digital\n\nO representante legal deve 
+ estar presente portando: Documento original com foto (RG ou CNH atual)\; e 
+ Ato constitutivo original devidamente registrado. Documentos da\n\nLocal: R
+ ua Balsa\, 601 - Freguesia do Ó São Paulo\, SP CEP: 02911-035\n\nDados do C
+ ertificado:\nModelo: e-CPF A1 - 12 meses\nCPF: 494.084.228-21\nNasc.: 07/09
+ /2000\nDocumento: 536878754\nLink do Boleto: localhost/boletos/8000007547.h
+ tml\n\nPrecisa efetuar alterações nesse evento?\nCancelar: https://calendly
+ .com/cancellations/AHNJLUB7RITH4HIC\nReagendar: https://calendly.com/resche
+ dulings/AHNJLUB7RITH4HIC\n\nDesenvolvido por Calendly.com\n\n\n-::~:~::~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+ \nNão edite esta seção da descrição.\n\nVisualize o seu evento em https://w
+ ww.google.com/calendar/event?action=VIEW&eid=bWZucDNlOXU3YjhpZnRudXV1YTlnMT
+ NhZGcgbW9oYW1lZC4yMDAwbGFra2lzQG0&tok=MTkjYXdzQHdlYmRhbmZlLmNvbS5icmFjY2ViZ
+ GY0N2YzYjg0NjBmODA3NGJhOGIwZTJmMTIwNDA4ZjVhMTY&ctz=America%2FSao_Paulo&hl=p
+ t_BR&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20191126T033753Z
+LOCATION:Rua Balsa\, 601 - Freguesia do Ó São Paulo\, SP CEP: 02911-035
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MOHAMED NASSER EL LAKKIS e AWS Softwrap
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
